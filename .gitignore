@@ -1,1 +1,8 @@
-.Ds_Store
+.DS_Store
+/141216_sp_device
+
+*.json
+*.html
+*.php
+*.py
+*.js
